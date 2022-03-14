@@ -1,0 +1,10 @@
+{
+    "homePage" : {
+        "title" : "Home",
+        "upcoming_appointment" : "Upcoming Appointment"
+    },
+    "profile_page" : {
+        "title" : "My Profile",
+        "Change_language" : "Change Language"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "homePage" : {
+        "title" : "Starseite",
+        "upcoming_appointment" : "Ansteeueu shantyur"
+    },
+    "profile_page" : {
+        "title" : "Mein Profil",
+        "Change_language" : "sparche andren"
+    }
+}
